@@ -1,4 +1,1 @@
-# Xray
-Data
-https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia 
-         
+Works with DCGAN using colab
